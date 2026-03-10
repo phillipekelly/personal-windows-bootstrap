@@ -111,3 +111,13 @@ Use at your own risk.
 
 It is recommended to run this on **fresh Windows installations only**.
 
+---
+
+##License
+
+MIT License
+
+Copyright (c) 2023 Phil Kelly
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software...
