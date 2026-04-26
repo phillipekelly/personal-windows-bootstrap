@@ -1,6 +1,7 @@
 # Windows Setup Script
 
 PowerShell script to quickly prepare a fresh Windows installation.
+Inspired by: https://github.com/Sycnex/Windows10Debloater 
 
 It removes common Windows bloatware, applies privacy tweaks, and installs essential applications using Winget.
 
